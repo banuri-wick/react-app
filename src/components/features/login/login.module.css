@@ -1,0 +1,9 @@
+.login {
+    width: fit-content;
+    margin-top: -232px;
+    margin-left: 350px;
+}
+
+.error {
+    color: red;
+}
